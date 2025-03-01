@@ -15,27 +15,19 @@ The dataset used for this project is `Salary Data.csv`. It contains the followin
 ## Installation
 
 To run this project locally, follow these steps:
-```
-### Clone the repository
-```
+### 1. **Clone** the repository :
  ```sh
    git clone https://github.com/NikashLamsal/Salary-Prediction-System.git
    ```
-```
-### Navigate to the project directory
-```
+### 2. **Navigate** to the project directory
 ```sh
 cd salary-prediction-system
 ```
-```
-### Install the required dependencies
-```
+### 3. **Install** the required dependencies
 ```sh
 pip install pandas scikit-learn seaborn matplotlib
 ```
-```
-### Run the project
-```
+### 3. **Run** the project
 ```sh
 python salary_prediction_system.py
 ```
