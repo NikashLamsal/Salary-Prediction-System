@@ -1,4 +1,3 @@
-```markdown
 # Salary Prediction System
 
 ## Overview
@@ -7,35 +6,28 @@ This project is a Salary Prediction System that predicts an individual's salary 
 ## Dataset
 The dataset used for this project is `Salary Data.csv`. It contains the following columns:
 
-```plaintext
 - YearsExperience: Number of years of experience.
 - EducationLevel: Level of education (e.g., Bachelor's, Master's, PhD).
 - JobTitle: Job title of the individual.
 - Age: Age of the individual.
 - Salary: The target variable, representing the salary of the individual.
-```
 
 ## Installation
+
 To run this project locally, follow these steps:
 
-```bash
-# Clone the repository
+### Clone the repository
 git clone https://github.com/your-username/salary-prediction-system.git
 
-# Navigate to the project directory
+### Navigate to the project directory
 cd salary-prediction-system
 
-# Install the required dependencies
+### Install the required dependencies
 pip install pandas scikit-learn seaborn matplotlib
 
-# Run the project
+### Run the project
 python salary_prediction_system.py
-```
 
-## Contact
-```plaintext
+---
 For questions or feedback, contact me at:
 lamsalnikash312@gmail.com
-```
-```
-
